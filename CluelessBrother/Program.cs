@@ -11,6 +11,7 @@ namespace CluelessBrother
         static void Main(string[] args)
         {
             Console.WriteLine("Clueless Brother");
+            Console.ReadKey();
         }
     }
 }
